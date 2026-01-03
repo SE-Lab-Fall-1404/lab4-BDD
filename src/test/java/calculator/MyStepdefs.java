@@ -6,6 +6,9 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import org.junit.Assert;
 
+/**
+ * Step definitions for Calculator BDD tests
+ */
 public class MyStepdefs {
     private Calculator calculator;
     private int value1;
