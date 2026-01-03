@@ -1,7 +1,7 @@
 package calculator;
 
 /**
- * Calculator class for performing mathematical operations
+ * Calculator class for performing mathematical operations.
  * Implements square root of division: result = sqrt(a/b)
  */
 public class Calculator {
