@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Lab 4 - BDD (Behavior Driven Development)
 
 ## Project Description
@@ -72,6 +71,3 @@ lab4-BDD/
   - a=9, b=1, result=3
   - a=25, b=1, result=5
   - a=1, b=1, result=1
-=======
-# lab4-BDD
->>>>>>> 63b18ea1dfd0133778ce924f859b16a26502e564
